@@ -1,2 +1,2 @@
 # SENTINEL
-Smart Home Automation (CSE 316 Microcontroller Project)
+Home Security And Automation (CSE 316 Microcontroller Project)
