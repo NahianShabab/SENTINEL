@@ -3,10 +3,10 @@
 
 As Engineers it is our job to solve practical problems to make other people’s life
 better. In that spirit, We have made the perfect home assistant - ”SENTINEL”.
-You can tell instruct her switch lights, fans and windows. She can automate your
+You can instruct it to switch lights, fans and windows. It can automate your
 house by turning lights on when it is dark and starting water pump when needed
-.She will not only make your life easier but also safer by detecting intruders and
-fire. Just don’t fall in love with her, because she’s already married . . . to science!
+. It will not only make your life easier but also safer by detecting intruders and
+fire.
 
 Demonstration Video: https://youtu.be/zYojUbHhq8A
 
